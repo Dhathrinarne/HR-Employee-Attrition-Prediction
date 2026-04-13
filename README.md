@@ -1,13 +1,13 @@
 # 📊 HR Employee Attrition Prediction using Logistic Regression
 ![Tool](https://img.shields.io/badge/Built%20With-Orange-orange)
-![Model](https://img.shields.io/badge/Model-Logistic_Regression-yellow)
+![Model](https://img.shields.io/badge/Model-Logistic_Regression-green)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Classification-blue)
 ![Accuracy](https://img.shields.io/badge/Accuracy-84.3%25-blueviolet)
 ![AUC](https://img.shields.io/badge/AUC-0.715-important)
 
 ## 📌 Overview
 
-This project focuses on predicting employee attrition (Yes/No) using Logistic Regression in Orange Data Mining. The workflow includes data preprocessing, model building, and performance evaluation using ROC Curve and Confusion Matrix.
+This project focuses on predicting employee attrition (Yes/No) using Logistic Regression in Orange. The workflow includes data preprocessing, model building, and performance evaluation using ROC Curve and Confusion Matrix.
 
 ---
 
