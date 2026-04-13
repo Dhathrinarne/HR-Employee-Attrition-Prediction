@@ -63,6 +63,13 @@ This project focuses on predicting employee attrition (Yes/No) using Logistic Re
 
 ---
 
+## 📚 What I have learnt
+
+* Built and evaluated a Logistic Regression model end-to-end
+* Learned key metrics, ROC-AUC, and handling class imbalance
+  
+---
+
 ## 📂 Project Files
 
 `https://1drv.ms/x/c/f483042b9735aab9/IQBuTG1kG7yUTowkiHjBAhLtAUGpzdPfJU2GjwXlHpw21lM?e=vYowkh` → Input dataset
