@@ -21,7 +21,7 @@ This project focuses on predicting employee attrition (Yes/No) using Logistic Re
 
 ## 🛠️ Tools & Technologies
 
-* Orange Data Mining
+* Orange 
 * Logistic Regression
 * CSV Dataset
 
@@ -78,6 +78,7 @@ This project focuses on predicting employee attrition (Yes/No) using Logistic Re
 ![3](https://github.com/user-attachments/assets/64c2acf6-0d02-4ea1-aa18-8f04ba1c40aa)
 
 ## Confusion Matrix
+![5](https://github.com/user-attachments/assets/396495f2-d57e-431a-b68d-dc7056349610)
 
 ---
 
